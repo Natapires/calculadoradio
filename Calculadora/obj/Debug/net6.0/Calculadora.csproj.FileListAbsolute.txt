@@ -1,0 +1,15 @@
+/home/natapires/Documents/diome/projetos/ModuloTeste/Calculadora/bin/Debug/net6.0/Calculadora
+/home/natapires/Documents/diome/projetos/ModuloTeste/Calculadora/bin/Debug/net6.0/Calculadora.deps.json
+/home/natapires/Documents/diome/projetos/ModuloTeste/Calculadora/bin/Debug/net6.0/Calculadora.runtimeconfig.json
+/home/natapires/Documents/diome/projetos/ModuloTeste/Calculadora/bin/Debug/net6.0/Calculadora.dll
+/home/natapires/Documents/diome/projetos/ModuloTeste/Calculadora/bin/Debug/net6.0/ref/Calculadora.dll
+/home/natapires/Documents/diome/projetos/ModuloTeste/Calculadora/bin/Debug/net6.0/Calculadora.pdb
+/home/natapires/Documents/diome/projetos/ModuloTeste/Calculadora/obj/Debug/net6.0/Calculadora.csproj.AssemblyReference.cache
+/home/natapires/Documents/diome/projetos/ModuloTeste/Calculadora/obj/Debug/net6.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/natapires/Documents/diome/projetos/ModuloTeste/Calculadora/obj/Debug/net6.0/Calculadora.AssemblyInfoInputs.cache
+/home/natapires/Documents/diome/projetos/ModuloTeste/Calculadora/obj/Debug/net6.0/Calculadora.AssemblyInfo.cs
+/home/natapires/Documents/diome/projetos/ModuloTeste/Calculadora/obj/Debug/net6.0/Calculadora.csproj.CoreCompileInputs.cache
+/home/natapires/Documents/diome/projetos/ModuloTeste/Calculadora/obj/Debug/net6.0/Calculadora.dll
+/home/natapires/Documents/diome/projetos/ModuloTeste/Calculadora/obj/Debug/net6.0/ref/Calculadora.dll
+/home/natapires/Documents/diome/projetos/ModuloTeste/Calculadora/obj/Debug/net6.0/Calculadora.pdb
+/home/natapires/Documents/diome/projetos/ModuloTeste/Calculadora/obj/Debug/net6.0/Calculadora.genruntimeconfig.cache
