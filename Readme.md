@@ -14,6 +14,7 @@ UMA DOCUMENTAÇÃO RESUMIDA PARA MOSTRAR O FUNCIONAMENTO DESSE PROJETO. FOI DESE
 Nesse projeto eu utilizei o Theory e o InlineData:
 
 Theory: Conjunto de cenários que vai passar pelos mesmo teste.
+
 InlineData: Serve para passar parametros para os seus testes, e para cada InlineData é um teste diferente.
 
 #Para iniciar um projeto em C# .NET:
